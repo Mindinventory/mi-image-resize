@@ -8,7 +8,7 @@ This is a lightweight npm package that can be used to resize images. With this p
 To use this package, you first need to install it using npm. Run the following command in your terminal:
 
 ```
-npm install image-resize-package
+npm install image-glide-library
 ```
 
 ## Usage
