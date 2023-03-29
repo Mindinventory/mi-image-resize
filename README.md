@@ -40,7 +40,7 @@ const resizedImage = await resize('path/to/image.jpg', 1080, 720);
 const newImage = await resize('path/to/image.png', 720);
 
 // This'll crop an image and apply new width and height to it
-const = await resize('path/to/image.jpg', 600, 500, true);
+const croppedImage = await resize('path/to/image.jpg', 600, 500, true);
 ```
 
 ## Let us know!
