@@ -1,6 +1,6 @@
 const sharp = require('sharp');
 
-module.exports = async (imagePath, w, h, crop = 0) => {
+module.exports = async (imagePath, w, h = null, crop = 0) => {
     try {
         w = parseInt(w);
         h = parseInt(h);
