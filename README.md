@@ -1,20 +1,20 @@
-# IMAGE GLIDE LIBRARY
+# MI IMAGE RESIZE
 
 This is a lightweight npm package that can be used to resize images. With this package, you can easily resize images to any dimensions you want, without losing image quality.
 
-![mi-image-resize](https://raw.githubusercontent.com/Mindinventory/mi-image-resize/main/MI_IMAGE_RESIZE.gif)
+![mi-image-resize](https://raw.githubusercontent.com/Mindinventory/mi-image-resize/main/mi-image-resize.gif)
 ## Installation
 To use this package, you first need to install it using npm. Run the following command in your terminal:
 
 ```
-npm install image-glide-library
+npm install @mindinventory/mi-image-resize
 ```
 
 ## Usage
 To use this package, you need to require it in your NodeJS code:
 
 ```
-const resize = require('image-glide-library');
+const resize = require('@mindinventory/mi-image-resize');
 ```
 It'll import resize function directly to your code. Then, you can use the resize function to resize your images.
 
