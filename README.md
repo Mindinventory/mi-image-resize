@@ -1,4 +1,4 @@
-![Alt Text](https://codetru.com/images/all/NODEJS_CIRCLE.gif)
+![Alt Text](https://git.mindinventory.com/miopensource/npm-imageglidelibrary/-/raw/development/MI_IMAGE_RESIZE.gif)
 
 # IMAGE GLIDE LIBRARY
 
