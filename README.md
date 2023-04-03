@@ -1,4 +1,4 @@
-# IMAGE GLIDE LIBRARY
+# MI IMAGE RESIZE
 
 This is a lightweight npm package that can be used to resize images. With this package, you can easily resize images to any dimensions you want, without losing image quality.
 
