@@ -17,5 +17,8 @@
     "image manipulation"
   ],
   "author": "MindInventory",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.0"
+  }
 }
