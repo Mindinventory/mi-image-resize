@@ -45,9 +45,6 @@ const croppedImage = await resize('path/to/image.jpg', 600, 500, true);
 ## Let us know!
 If you use our open-source libraries in your project, please make sure to credit us and Give a star to [www.mindinventory.com](https://mindinventory.com/)
 
-## LICENSE
-Node-js boilerplate is [MIT-licensed](https://github.com/Mindinventory/node-js-boilerplate/blob/master/LICENSE).
-
 
 ![alt text](https://git.mindinventory.com/uploads/-/system/appearance/header_logo/1/mi-logo.png)
 
