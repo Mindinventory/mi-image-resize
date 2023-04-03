@@ -1,19 +1,21 @@
 {
-  "name": "image-glide-library",
-  "version": "1.0.1",
-  "description": "",
+  "name": "@mindinventory/mi-image-glider",
+  "version": "1.0.0",
+  "description": "This is a lightweight npm package that can be used to resize images. With this package, you can easily resize images to any dimensions you want, without losing image quality.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://git.mindinventory.com/miopensource/npm-imageglidelibrary.git"
+    "url": "https://github.com/Mindinventory/mi-image-resize"
   },
-  "keywords": [],
-  "author": "Rushiraj Parekh",
-  "license": "ISC",
-  "dependencies": {
-    "sharp": "^0.31.3"
-  }
+  "keywords": [
+    "jpeg",
+    "png",
+    "image",
+    "resize",
+    "crop",
+    "image manipulation"
+  ],
+  "author": "MindInventory",
+  "license": "ISC"
 }
