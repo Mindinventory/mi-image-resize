@@ -2,7 +2,7 @@
 
 This is a lightweight npm package that can be used to resize images. With this package, you can easily resize images to any dimensions you want, without losing image quality.
 
-![mi-image-resize](https://raw.githubusercontent.com/Mindinventory/mi-image-resize/main/mi-image-resize.gif)
+![mi-image-resize](https://www.mindinventory.com/img/npm/mi-image-resize.gif)
 ## Installation
 To use this package, you first need to install it using npm. Run the following command in your terminal:
 
@@ -48,6 +48,6 @@ If you use our open-source libraries in your project, please make sure to credit
 
 ![alt text](https://git.mindinventory.com/uploads/-/system/appearance/header_logo/1/mi-logo.png)
 
-<a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=circular-cards-stack-view" target="__blank">
+<a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=npm-mi-image-resize" target="__blank">
 <img src="https://github.com/Sammindinventory/MindInventory/raw/main/hirebutton.png" width="203" height="43"  alt="app development">
 </a>
